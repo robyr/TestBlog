@@ -42,7 +42,11 @@ h6, .h6 {
 }
 
 .navbar-default .navbar-brand {
+  color: #555;
+}
 
+.navbar-default .navbar-nav>li>a {
+  color: #555;
 }
 
 /* Navbar */
