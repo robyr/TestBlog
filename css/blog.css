@@ -35,13 +35,14 @@ h6, .h6 {
 .navbar-brand {
   font-family: 'Lato', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 1.9em;
+  color: #555;
   text-transform: lowercase;
   font-weight: 100;
   letter-spacing: -1px;
 }
 
 .navbar-default .navbar-brand {
-  color: #555;
+
 }
 
 /* Navbar */
