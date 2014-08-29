@@ -3,7 +3,7 @@
  */
 
 body {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #555;
   font-weight: 300;
 }
@@ -33,7 +33,7 @@ h6, .h6 {
 
 /* Navbar Brand */
 .navbar-brand {
-  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Lato', "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 
