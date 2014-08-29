@@ -30,6 +30,11 @@ h6, .h6 {
   }
 }
 
+/* Blog Page */
+#blog-page {
+  padding-top: 30px;
+}
+
 
 /*
  * Masthead for nav
