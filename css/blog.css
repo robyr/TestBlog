@@ -44,7 +44,7 @@ h6, .h6 {
   color: #555;
 }
 
-.navbar-default .navbar-nav>li>a:hover {
+.navbar-default .navbar-nav>li>a:hover,.navbar-default .navbar-nav>li.active>a {
   border-bottom: 3px solid;
   padding-bottom: 12px;
 }
