@@ -210,6 +210,13 @@ h2 {
   padding-left: 30px;
 }
 
+#subsribe-box h4 {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 20px;
+  color: #666;
+  text-align: justify;
+}
+
 /*
  * Footer
  */
