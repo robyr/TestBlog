@@ -60,6 +60,10 @@ h6, .h6 {
   color: #f1c40f;
 }
 
+#blog-page .blog-post:first-child h2.blog-post-title {
+  color: #34495e;
+}
+
 /* Navbar */
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
   background-color: #f8f8f8;
