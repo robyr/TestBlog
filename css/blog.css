@@ -44,6 +44,10 @@ h6, .h6 {
   color: #555;
 }
 
+.navbar-default .navbar-nav>li>a {
+  font-weight: 700;
+}
+
 .navbar-default .navbar-nav>li:first-child>a {
   color: #e74c3c;
 }
@@ -88,7 +92,6 @@ h6, .h6 {
   border-bottom: 5px solid;
   border-left: 5px solid transparent;
 }
-
 
 /*
  * Blog name and description
