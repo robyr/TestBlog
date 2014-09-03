@@ -48,6 +48,18 @@ h6, .h6 {
   color: #e74c3c;
 }
 
+.navbar-default .navbar-nav>li:nth-child(2)>a {
+  color: #2ecc71;
+}
+
+.navbar-default .navbar-nav>li:nth-child(3)>a {
+  color: #3498db;
+}
+
+.navbar-default .navbar-nav>li:nth-child(4)>a {
+  color: #f1c40f;
+}
+
 /* Navbar */
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
   background-color: #f8f8f8;
