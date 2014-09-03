@@ -197,6 +197,10 @@ h2 {
   font-weight: 300;
 }
 
+.blog-post-meta .btn-danger:hover {
+  background-color: #d2322d;
+}
+
 .blog-main img {
   max-width: 100%;
   margin-bottom: 30px;
@@ -237,6 +241,10 @@ h2 {
   text-transform: uppercase;
   margin-top: 10px;
   margin-bottom: 10px; 
+}
+
+#subscribe-box .btn-warning:hover {
+  background-color: #f0ad4e;
 }
 
 
