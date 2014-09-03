@@ -223,8 +223,9 @@ h2 {
 
 #subsribe-box p {
   line-height: 1.5em;
-  text-rendering: optimizeLegability;
-  
+  text-rendering: optimizeLegibility;
+  font-size: 15px;
+
 }
 
 /*
