@@ -232,6 +232,8 @@ h2 {
   margin-top: 15px;
 }
 
+
+
 /*
  * Footer
  */
@@ -246,3 +248,12 @@ h2 {
 .blog-footer p:last-child {
   margin-bottom: 0;
 }
+
+
+/*
+ * site wide styles
+ */
+
+ .center {
+  text-align: center;
+ }
